@@ -1,0 +1,157 @@
+.profile-button{
+  -fx-pref-height:20px;
+  -fx-pref-width:350px;
+  -fx-background-color:#66C3FF;
+  -fx-font-size:20px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-border-width:3px;
+  -fx-border-style:solid;
+  -fx-border-color:#53A6DD;
+  -fx-padding: 32px 40px;
+  -fx-text-align: center;
+  -fx-margin: 4px 2px;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.transcript-button{
+  -fx-pref-height:20px;
+  -fx-pref-width:350px;
+  -fx-background-color:#06EFA9;
+  -fx-font-size:20px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-border-width:3px;
+  -fx-border-style:solid;
+  -fx-border-color:#05C78D;
+  -fx-padding: 32px 40px;
+  -fx-text-align: center;
+  -fx-margin: 4px 2px;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.currentcourses-button{
+  -fx-pref-height:20px;
+  -fx-pref-width:350px;
+  -fx-background-color:#FD5EA8;
+  -fx-font-size:20px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-border-width:3px;
+  -fx-border-style:solid;
+  -fx-border-color:#FD2187;
+  -fx-padding: 32px 40px;
+  -fx-text-align: center;
+  -fx-margin: 4px 2px;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.pastcourses-button{
+  -fx-pref-height:20px;
+  -fx-pref-width:350px;
+  -fx-background-color:#FD985D;
+  -fx-font-size:20px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-border-width:3px;
+  -fx-border-style:solid;
+  -fx-border-color:#FD7121;
+  -fx-padding: 32px 40px;
+  -fx-text-align: center;
+  -fx-margin: 4px 2px;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.exit-button{
+  -fx-pref-height:10px;
+  -fx-pref-width:150px;
+  -fx-background-color:#D80032;
+  -fx-font-size:20px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-padding: 32px 40px;
+  -fx-text-align: center;
+  -fx-margin: 4px 2px;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.login-button{
+  -fx-pref-height:12px;
+  -fx-pref-width:80px;
+  -fx-background-color:#153B50;
+  -fx-font-size:12px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-text-align: center;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+  -fx-opacity: 0.6;
+}
+
+.studentID-text{
+  -fx-font-size:20px;
+  -fx-fill:#08448c;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+}
+
+.log-text{
+  -fx-font-size:25px;
+  -fx-fill:#07448a;
+  -fx-font-family:"Arial";
+}
+
+.error-button{
+  -fx-pref-height:20px;
+  -fx-pref-width:80px;
+  -fx-background-color:#FF0032;
+  -fx-font-size:12px;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+  -fx-text-fill:#F5F5F5;
+  -fx-text-align: center;
+  -fx-cursor: pointer;
+  -fx-text-decoration: none;
+  -fx-display: inline-block;
+  -fx-box-sizing: border-box;
+  -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+}
+
+.error-text{
+  -fx-font-size:18px;
+  -fx-fill:#FF0032;
+  -fx-font-weight:bold;
+  -fx-font-family:"Arial";
+}
